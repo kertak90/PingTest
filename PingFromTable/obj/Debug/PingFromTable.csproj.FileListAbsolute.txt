@@ -1,0 +1,21 @@
+G:\C# projects\PingTest2\PingTest\PingFromTable\obj\Debug\PingFromTable.csprojResolveAssemblyReference.cache
+G:\C# projects\PingTest2\PingTest\PingFromTable\obj\Debug\PingFromTable.Form1.resources
+G:\C# projects\PingTest2\PingTest\PingFromTable\obj\Debug\PingFromTable.Form2.resources
+G:\C# projects\PingTest2\PingTest\PingFromTable\obj\Debug\PingFromTable.Properties.Resources.resources
+G:\C# projects\PingTest2\PingTest\PingFromTable\obj\Debug\PingFromTable.csproj.GenerateResource.Cache
+G:\C# projects\PingTest2\PingTest\PingFromTable\obj\Debug\PingFromTable.csproj.CoreCompileInputs.cache
+G:\C# projects\PingTest2\PingTest\PingFromTable\bin\Debug\PingFromTable.exe.config
+G:\C# projects\PingTest2\PingTest\PingFromTable\bin\Debug\PingFromTable.exe
+G:\C# projects\PingTest2\PingTest\PingFromTable\bin\Debug\PingFromTable.pdb
+G:\C# projects\PingTest2\PingTest\PingFromTable\obj\Debug\PingFromTable.exe
+G:\C# projects\PingTest2\PingTest\PingFromTable\obj\Debug\PingFromTable.pdb
+G:\C# projects\PingTest\PingTest — 25.03.2018\PingFromTable\bin\Debug\PingFromTable.exe.config
+G:\C# projects\PingTest\PingTest — 25.03.2018\PingFromTable\bin\Debug\PingFromTable.exe
+G:\C# projects\PingTest\PingTest — 25.03.2018\PingFromTable\bin\Debug\PingFromTable.pdb
+G:\C# projects\PingTest\PingTest — 25.03.2018\PingFromTable\obj\Debug\PingFromTable.Form1.resources
+G:\C# projects\PingTest\PingTest — 25.03.2018\PingFromTable\obj\Debug\PingFromTable.Form2.resources
+G:\C# projects\PingTest\PingTest — 25.03.2018\PingFromTable\obj\Debug\PingFromTable.Properties.Resources.resources
+G:\C# projects\PingTest\PingTest — 25.03.2018\PingFromTable\obj\Debug\PingFromTable.csproj.GenerateResource.cache
+G:\C# projects\PingTest\PingTest — 25.03.2018\PingFromTable\obj\Debug\PingFromTable.csproj.CoreCompileInputs.cache
+G:\C# projects\PingTest\PingTest — 25.03.2018\PingFromTable\obj\Debug\PingFromTable.exe
+G:\C# projects\PingTest\PingTest — 25.03.2018\PingFromTable\obj\Debug\PingFromTable.pdb

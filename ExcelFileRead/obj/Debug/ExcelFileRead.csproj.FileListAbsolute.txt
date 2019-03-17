@@ -1,0 +1,105 @@
+G:\C# projects\PingTest2\PingTest\ExcelFileRead\bin\Debug\ExcelFileRead.exe.config
+G:\C# projects\PingTest2\PingTest\ExcelFileRead\bin\Debug\ExcelFileRead.exe
+G:\C# projects\PingTest2\PingTest\ExcelFileRead\bin\Debug\ExcelFileRead.pdb
+G:\C# projects\PingTest2\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.Form1.resources
+G:\C# projects\PingTest2\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.Properties.Resources.resources
+G:\C# projects\PingTest2\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.csproj.GenerateResource.Cache
+G:\C# projects\PingTest2\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.csproj.CoreCompileInputs.cache
+G:\C# projects\PingTest2\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.exe
+G:\C# projects\PingTest2\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.pdb
+G:\C# projects\PingTest2\PingTest\ExcelFileRead\bin\Debug\ExcelDataReader.dll
+G:\C# projects\PingTest2\PingTest\ExcelFileRead\bin\Debug\ExcelDataReader.xml
+G:\C# projects\PingTest2\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.csprojResolveAssemblyReference.cache
+G:\C# projects\PingTest2\PingTest\ExcelFileRead\bin\Debug\EPPlus.dll
+G:\C# projects\PingTest2\PingTest\ExcelFileRead\bin\Debug\ExcelDataReader.DataSet.dll
+G:\C# projects\PingTest2\PingTest\ExcelFileRead\bin\Debug\ExcelLibrary.dll
+G:\C# projects\PingTest2\PingTest\ExcelFileRead\bin\Debug\EPPlus.xml
+G:\C# projects\PingTest2\PingTest\ExcelFileRead\bin\Debug\ExcelDataReader.DataSet.xml
+G:\C# projects\PingTest2\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.csproj.CopyComplete
+G:\C# projects\PingTest2\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.MainForm.resources
+G:\C# projects\PingTest2\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.FormComChange.resources
+D:\ШЕРИФ\C# projects\PingTest\ExcelFileRead\bin\Debug\ExcelFileRead.exe.config
+D:\ШЕРИФ\C# projects\PingTest\ExcelFileRead\bin\Debug\ExcelFileRead.exe
+D:\ШЕРИФ\C# projects\PingTest\ExcelFileRead\bin\Debug\ExcelFileRead.pdb
+D:\ШЕРИФ\C# projects\PingTest\ExcelFileRead\bin\Debug\EPPlus.dll
+D:\ШЕРИФ\C# projects\PingTest\ExcelFileRead\bin\Debug\ExcelDataReader.DataSet.dll
+D:\ШЕРИФ\C# projects\PingTest\ExcelFileRead\bin\Debug\ExcelDataReader.dll
+D:\ШЕРИФ\C# projects\PingTest\ExcelFileRead\bin\Debug\ExcelLibrary.dll
+D:\ШЕРИФ\C# projects\PingTest\ExcelFileRead\bin\Debug\EPPlus.xml
+D:\ШЕРИФ\C# projects\PingTest\ExcelFileRead\bin\Debug\ExcelDataReader.xml
+D:\ШЕРИФ\C# projects\PingTest\ExcelFileRead\bin\Debug\ExcelDataReader.DataSet.xml
+D:\ШЕРИФ\C# projects\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.csprojResolveAssemblyReference.cache
+D:\ШЕРИФ\C# projects\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.Form1.resources
+D:\ШЕРИФ\C# projects\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.FormComChange.resources
+D:\ШЕРИФ\C# projects\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.MainForm.resources
+D:\ШЕРИФ\C# projects\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.Properties.Resources.resources
+D:\ШЕРИФ\C# projects\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.csproj.GenerateResource.cache
+D:\ШЕРИФ\C# projects\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.csproj.CoreCompileInputs.cache
+D:\ШЕРИФ\C# projects\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.csproj.CopyComplete
+D:\ШЕРИФ\C# projects\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.exe
+D:\ШЕРИФ\C# projects\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.pdb
+G:\C# projects\PingTest\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.csprojResolveAssemblyReference.cache
+G:\C# projects\PingTest\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.Form1.resources
+G:\C# projects\PingTest\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.FormComChange.resources
+G:\C# projects\PingTest\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.FormTCPChat.resources
+G:\C# projects\PingTest\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.MainForm.resources
+G:\C# projects\PingTest\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.Properties.Resources.resources
+G:\C# projects\PingTest\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.csproj.GenerateResource.cache
+G:\C# projects\PingTest\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.csproj.CoreCompileInputs.cache
+G:\C# projects\PingTest\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.exe
+G:\C# projects\PingTest\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.pdb
+G:\C# projects\PingTest\PingTest\ExcelFileRead\bin\Debug\ExcelFileRead.exe.config
+G:\C# projects\PingTest\PingTest\ExcelFileRead\bin\Debug\ExcelFileRead.exe
+G:\C# projects\PingTest\PingTest\ExcelFileRead\bin\Debug\ExcelFileRead.pdb
+G:\C# projects\PingTest\PingTest\ExcelFileRead\bin\Debug\EPPlus.dll
+G:\C# projects\PingTest\PingTest\ExcelFileRead\bin\Debug\ExcelDataReader.DataSet.dll
+G:\C# projects\PingTest\PingTest\ExcelFileRead\bin\Debug\ExcelDataReader.dll
+G:\C# projects\PingTest\PingTest\ExcelFileRead\bin\Debug\ExcelLibrary.dll
+G:\C# projects\PingTest\PingTest\ExcelFileRead\bin\Debug\EPPlus.xml
+G:\C# projects\PingTest\PingTest\ExcelFileRead\bin\Debug\ExcelDataReader.xml
+G:\C# projects\PingTest\PingTest\ExcelFileRead\bin\Debug\ExcelDataReader.DataSet.xml
+G:\C# projects\PingTest\PingTest\ExcelFileRead\obj\Debug\ExcelFileRead.csproj.CopyComplete
+G:\C# projects\PingTest\PingTest — 25.03.2018\ExcelFileRead\obj\Debug\ExcelFileRead.csprojResolveAssemblyReference.cache
+G:\C# projects\PingTest\PingTest — 25.03.2018\ExcelFileRead\obj\Debug\ExcelFileRead.chatForm.resources
+G:\C# projects\PingTest\PingTest — 25.03.2018\ExcelFileRead\obj\Debug\ExcelFileRead.Form1.resources
+G:\C# projects\PingTest\PingTest — 25.03.2018\ExcelFileRead\obj\Debug\ExcelFileRead.FormComChange.resources
+G:\C# projects\PingTest\PingTest — 25.03.2018\ExcelFileRead\obj\Debug\ExcelFileRead.FormTCPChat.resources
+G:\C# projects\PingTest\PingTest — 25.03.2018\ExcelFileRead\obj\Debug\ExcelFileRead.MainForm.resources
+G:\C# projects\PingTest\PingTest — 25.03.2018\ExcelFileRead\obj\Debug\ExcelFileRead.Properties.Resources.resources
+G:\C# projects\PingTest\PingTest — 25.03.2018\ExcelFileRead\obj\Debug\ExcelFileRead.csproj.GenerateResource.cache
+G:\C# projects\PingTest\PingTest — 25.03.2018\ExcelFileRead\obj\Debug\ExcelFileRead.csproj.CoreCompileInputs.cache
+G:\C# projects\PingTest\PingTest — 25.03.2018\ExcelFileRead\obj\Debug\ExcelFileRead.exe
+G:\C# projects\PingTest\PingTest — 25.03.2018\ExcelFileRead\obj\Debug\ExcelFileRead.pdb
+G:\C# projects\PingTest\PingTest — 25.03.2018\ExcelFileRead\bin\Debug\ExcelFileRead.exe.config
+G:\C# projects\PingTest\PingTest — 25.03.2018\ExcelFileRead\bin\Debug\ExcelFileRead.exe
+G:\C# projects\PingTest\PingTest — 25.03.2018\ExcelFileRead\bin\Debug\ExcelFileRead.pdb
+G:\C# projects\PingTest\PingTest — 25.03.2018\ExcelFileRead\bin\Debug\EPPlus.dll
+G:\C# projects\PingTest\PingTest — 25.03.2018\ExcelFileRead\bin\Debug\ExcelDataReader.DataSet.dll
+G:\C# projects\PingTest\PingTest — 25.03.2018\ExcelFileRead\bin\Debug\ExcelDataReader.dll
+G:\C# projects\PingTest\PingTest — 25.03.2018\ExcelFileRead\bin\Debug\ExcelLibrary.dll
+G:\C# projects\PingTest\PingTest — 25.03.2018\ExcelFileRead\bin\Debug\EPPlus.xml
+G:\C# projects\PingTest\PingTest — 25.03.2018\ExcelFileRead\bin\Debug\ExcelDataReader.xml
+G:\C# projects\PingTest\PingTest — 25.03.2018\ExcelFileRead\bin\Debug\ExcelDataReader.DataSet.xml
+G:\C# projects\PingTest\PingTest — 25.03.2018\ExcelFileRead\obj\Debug\ExcelFileRead.csproj.CopyComplete
+D:\C# projects\PingTest — 25.06.2018\ExcelFileRead\bin\Debug\ExcelFileRead.exe.config
+D:\C# projects\PingTest — 25.06.2018\ExcelFileRead\bin\Debug\ExcelFileRead.exe
+D:\C# projects\PingTest — 25.06.2018\ExcelFileRead\bin\Debug\ExcelFileRead.pdb
+D:\C# projects\PingTest — 25.06.2018\ExcelFileRead\bin\Debug\EPPlus.dll
+D:\C# projects\PingTest — 25.06.2018\ExcelFileRead\bin\Debug\ExcelDataReader.DataSet.dll
+D:\C# projects\PingTest — 25.06.2018\ExcelFileRead\bin\Debug\ExcelDataReader.dll
+D:\C# projects\PingTest — 25.06.2018\ExcelFileRead\bin\Debug\ExcelLibrary.dll
+D:\C# projects\PingTest — 25.06.2018\ExcelFileRead\bin\Debug\EPPlus.xml
+D:\C# projects\PingTest — 25.06.2018\ExcelFileRead\bin\Debug\ExcelDataReader.xml
+D:\C# projects\PingTest — 25.06.2018\ExcelFileRead\bin\Debug\ExcelDataReader.DataSet.xml
+D:\C# projects\PingTest — 25.06.2018\ExcelFileRead\obj\Debug\ExcelFileRead.csprojAssemblyReference.cache
+D:\C# projects\PingTest — 25.06.2018\ExcelFileRead\obj\Debug\ExcelFileRead.chatForm.resources
+D:\C# projects\PingTest — 25.06.2018\ExcelFileRead\obj\Debug\ExcelFileRead.Form1.resources
+D:\C# projects\PingTest — 25.06.2018\ExcelFileRead\obj\Debug\ExcelFileRead.FormComChange.resources
+D:\C# projects\PingTest — 25.06.2018\ExcelFileRead\obj\Debug\ExcelFileRead.FormTCPChat.resources
+D:\C# projects\PingTest — 25.06.2018\ExcelFileRead\obj\Debug\ExcelFileRead.MainForm.resources
+D:\C# projects\PingTest — 25.06.2018\ExcelFileRead\obj\Debug\ExcelFileRead.Properties.Resources.resources
+D:\C# projects\PingTest — 25.06.2018\ExcelFileRead\obj\Debug\ExcelFileRead.csproj.GenerateResource.cache
+D:\C# projects\PingTest — 25.06.2018\ExcelFileRead\obj\Debug\ExcelFileRead.csproj.CoreCompileInputs.cache
+D:\C# projects\PingTest — 25.06.2018\ExcelFileRead\obj\Debug\ExcelFileRead.csproj.CopyComplete
+D:\C# projects\PingTest — 25.06.2018\ExcelFileRead\obj\Debug\ExcelFileRead.exe
+D:\C# projects\PingTest — 25.06.2018\ExcelFileRead\obj\Debug\ExcelFileRead.pdb

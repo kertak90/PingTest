@@ -1,0 +1,6 @@
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\bin\Debug\serverChat.exe.config
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\obj\Debug\serverChat.csprojResolveAssemblyReference.cache
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\bin\Debug\serverChat.exe
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\bin\Debug\serverChat.pdb
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\obj\Debug\serverChat.exe
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\obj\Debug\serverChat.pdb

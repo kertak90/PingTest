@@ -1,0 +1,20 @@
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\bin\Debug\serverChat.exe.config
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\obj\Debug\serverChat.csprojResolveAssemblyReference.cache
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\bin\Debug\serverChat.exe
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\bin\Debug\serverChat.pdb
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\obj\Debug\serverChat.exe
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\obj\Debug\serverChat.pdb
+C:\Users\Лего\Downloads\chat\video\chat\server\serverChat\serverChat\bin\Debug\serverChat.exe.config
+C:\Users\Лего\Downloads\chat\video\chat\server\serverChat\serverChat\bin\Debug\serverChat.exe
+C:\Users\Лего\Downloads\chat\video\chat\server\serverChat\serverChat\bin\Debug\serverChat.pdb
+C:\Users\Лего\Downloads\chat\video\chat\server\serverChat\serverChat\obj\Debug\serverChat.csprojResolveAssemblyReference.cache
+C:\Users\Лего\Downloads\chat\video\chat\server\serverChat\serverChat\obj\Debug\serverChat.csproj.CoreCompileInputs.cache
+C:\Users\Лего\Downloads\chat\video\chat\server\serverChat\serverChat\obj\Debug\serverChat.exe
+C:\Users\Лего\Downloads\chat\video\chat\server\serverChat\serverChat\obj\Debug\serverChat.pdb
+G:\C# projects\PingTest\PingTest — 25.03.2018\Сервер\serverChat\bin\Debug\serverChat.exe.config
+G:\C# projects\PingTest\PingTest — 25.03.2018\Сервер\serverChat\bin\Debug\serverChat.exe
+G:\C# projects\PingTest\PingTest — 25.03.2018\Сервер\serverChat\bin\Debug\serverChat.pdb
+G:\C# projects\PingTest\PingTest — 25.03.2018\Сервер\serverChat\obj\Debug\serverChat.csprojResolveAssemblyReference.cache
+G:\C# projects\PingTest\PingTest — 25.03.2018\Сервер\serverChat\obj\Debug\serverChat.csproj.CoreCompileInputs.cache
+G:\C# projects\PingTest\PingTest — 25.03.2018\Сервер\serverChat\obj\Debug\serverChat.exe
+G:\C# projects\PingTest\PingTest — 25.03.2018\Сервер\serverChat\obj\Debug\serverChat.pdb

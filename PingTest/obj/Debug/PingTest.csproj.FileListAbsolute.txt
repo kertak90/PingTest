@@ -1,0 +1,30 @@
+G:\C# projects\PingTest1\PingTest\PingTest\obj\Debug\PingTest.csprojResolveAssemblyReference.cache
+G:\C# projects\PingTest1\PingTest\PingTest\obj\Debug\PingTest.Form1.resources
+G:\C# projects\PingTest1\PingTest\PingTest\obj\Debug\PingTest.Properties.Resources.resources
+G:\C# projects\PingTest1\PingTest\PingTest\obj\Debug\PingTest.csproj.GenerateResource.Cache
+G:\C# projects\PingTest1\PingTest\PingTest\obj\Debug\PingTest.csproj.CoreCompileInputs.cache
+G:\C# projects\PingTest1\PingTest\PingTest\bin\Debug\PingTest.exe.config
+G:\C# projects\PingTest1\PingTest\PingTest\bin\Debug\PingTest.exe
+G:\C# projects\PingTest1\PingTest\PingTest\bin\Debug\PingTest.pdb
+G:\C# projects\PingTest1\PingTest\PingTest\obj\Debug\PingTest.exe
+G:\C# projects\PingTest1\PingTest\PingTest\obj\Debug\PingTest.pdb
+G:\C# projects\PingTest1\PingTest\PingTest\obj\Debug\PingTest.Form2.resources
+G:\C# projects\PingTest2\PingTest\PingTest\bin\Debug\PingTest.exe.config
+G:\C# projects\PingTest2\PingTest\PingTest\bin\Debug\PingTest.exe
+G:\C# projects\PingTest2\PingTest\PingTest\bin\Debug\PingTest.pdb
+G:\C# projects\PingTest2\PingTest\PingTest\obj\Debug\PingTest.csprojResolveAssemblyReference.cache
+G:\C# projects\PingTest2\PingTest\PingTest\obj\Debug\PingTest.Form1.resources
+G:\C# projects\PingTest2\PingTest\PingTest\obj\Debug\PingTest.Form2.resources
+G:\C# projects\PingTest2\PingTest\PingTest\obj\Debug\PingTest.Properties.Resources.resources
+G:\C# projects\PingTest2\PingTest\PingTest\obj\Debug\PingTest.csproj.GenerateResource.Cache
+G:\C# projects\PingTest2\PingTest\PingTest\obj\Debug\PingTest.csproj.CoreCompileInputs.cache
+G:\C# projects\PingTest2\PingTest\PingTest\obj\Debug\PingTest.exe
+G:\C# projects\PingTest2\PingTest\PingTest\obj\Debug\PingTest.pdb
+G:\C# projects\PingTest\PingTest — 25.03.2018\PingTest\obj\Debug\PingTest.csprojResolveAssemblyReference.cache
+G:\C# projects\PingTest\PingTest — 25.03.2018\PingTest\obj\Debug\PingTest.Form1.resources
+G:\C# projects\PingTest\PingTest — 25.03.2018\PingTest\obj\Debug\PingTest.Form2.resources
+G:\C# projects\PingTest\PingTest — 25.03.2018\PingTest\obj\Debug\PingTest.Properties.Resources.resources
+G:\C# projects\PingTest\PingTest — 25.03.2018\PingTest\obj\Debug\PingTest.csproj.GenerateResource.cache
+G:\C# projects\PingTest\PingTest — 25.03.2018\PingTest\obj\Debug\PingTest.csproj.CoreCompileInputs.cache
+G:\C# projects\PingTest\PingTest — 25.03.2018\PingTest\obj\Debug\PingTest.exe
+G:\C# projects\PingTest\PingTest — 25.03.2018\PingTest\obj\Debug\PingTest.pdb

@@ -1,0 +1,11 @@
+G:\C# projects\PingTest2\PingTest\ExcelConsole\bin\Debug\netcoreapp2.0\ExcelConsole.deps.json
+G:\C# projects\PingTest2\PingTest\ExcelConsole\bin\Debug\netcoreapp2.0\ExcelConsole.runtimeconfig.json
+G:\C# projects\PingTest2\PingTest\ExcelConsole\bin\Debug\netcoreapp2.0\ExcelConsole.runtimeconfig.dev.json
+G:\C# projects\PingTest2\PingTest\ExcelConsole\bin\Debug\netcoreapp2.0\ExcelConsole.dll
+G:\C# projects\PingTest2\PingTest\ExcelConsole\bin\Debug\netcoreapp2.0\ExcelConsole.pdb
+G:\C# projects\PingTest2\PingTest\ExcelConsole\obj\Debug\netcoreapp2.0\ExcelConsole.csprojResolveAssemblyReference.cache
+G:\C# projects\PingTest2\PingTest\ExcelConsole\obj\Debug\netcoreapp2.0\ExcelConsole.csproj.CoreCompileInputs.cache
+G:\C# projects\PingTest2\PingTest\ExcelConsole\obj\Debug\netcoreapp2.0\ExcelConsole.AssemblyInfoInputs.cache
+G:\C# projects\PingTest2\PingTest\ExcelConsole\obj\Debug\netcoreapp2.0\ExcelConsole.AssemblyInfo.cs
+G:\C# projects\PingTest2\PingTest\ExcelConsole\obj\Debug\netcoreapp2.0\ExcelConsole.dll
+G:\C# projects\PingTest2\PingTest\ExcelConsole\obj\Debug\netcoreapp2.0\ExcelConsole.pdb

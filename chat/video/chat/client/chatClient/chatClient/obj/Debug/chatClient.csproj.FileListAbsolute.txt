@@ -1,0 +1,9 @@
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\bin\Debug\chatClient.exe.config
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\bin\Debug\chatClient.exe
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\bin\Debug\chatClient.pdb
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.csprojResolveAssemblyReference.cache
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.chatForm.resources
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.Properties.Resources.resources
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.csproj.GenerateResource.Cache
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.exe
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.pdb
